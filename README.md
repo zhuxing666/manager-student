@@ -1,5 +1,6 @@
 # manager-student
 面向对象学生管理系统 优化功能
+debug pycharm或者其他python 3以上编译环境
 
 功能介绍：
 1、添加学生系统
